@@ -11,9 +11,10 @@
    }
    ],
    "forum_url":"https://forum.xda-developers.com/mi-6/development/rom-havoc-os-t3807517",
-   "build_date":"20181113-2132",
-   "file_name":"Havoc-OS-v2.0-20181113-sagit-Official.zip",
-   "file_size":609997898,
+   "build_date":"20181118-0000",
    "url":"https:\/\/sourceforge.net\/projects\/havoc-os\/files\/sagit\/Havoc-OS-v2.0-20181113-sagit-Official.zip\/download",
-   "md5":"0477d5a4c9650ad841e44a078f6037b2"
+   "file_name":"Havoc-OS-v2.0-20181118-sagit-Official.zip",
+   "file_size":596442056,
+   "md5":"2ecb1fd8a979babb9fb9daf9a0263bf3"
+
 }
