@@ -1,4 +1,5 @@
 {
+"donate_url":"https:\/\/www.paypal.me\/ANUSHEK",
 "website_url":"https:\/\/sourceforge.net\/projects\/havoc-os\/",
 "news_url":"https:\/\/t.me\/Havoc_OS",
 "addons":[
@@ -7,9 +8,11 @@
 "developer": "Ruturaj Kadam",
 "developer_url": "https:\/\/t.me\/notallowedontelegram",
 "forum_url": "https:\/\/forum.xda-developers.com\/redmi-note-5-pro\/development\/rom-havoc-os-v2-0-t3853555",
-"filename":"Havoc-OS-v2.0-20181119-whyred-Official.zip",
-"build_date":"20181119-1544",
-"filesize":"744677943",
-"md5":"5a4b44efc02e50970c36e5ba8e46c8e8",
-"url":"https:\/\/sourceforge.net\/projects\/havoc-os\/files\/whyred\/Havoc-OS-v2.0-20181119-whyred-Official.zip\/download",
+"changelog": "",
+"filename":"Havoc-OS-v2.0-20181216-whyred-Official.zip",
+"build_date":"20181216-1021",
+"filesize":"730263508",
+"md5":"4ea86157998520c287bfc8a76fab2501",
+"url":"https:\/\/sourceforge.net\/projects\/havoc-os\/files\/whyred\/Havoc-OS-v2.0-20181216-whyred-Official.zip\/download",
+"error":true
 }
