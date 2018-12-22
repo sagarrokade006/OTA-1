@@ -3,16 +3,16 @@
 "website_url":"https:\/\/sourceforge.net\/projects\/havoc-os\/",
 "news_url":"https:\/\/t.me\/Havoc_OS",
 "addons":[
-{"title":"GApps","summary":"SimpleGapps","url":"http:\/\/androidfilehost.com/?fid=11410963190603845434"},
+{"title":"GApps","summary":"SimpleGapps","url":"http:\/\/androidfilehost.com/?fid=11410963190603867355"},
 {"title":"Magisk","summary":"Systemless Root Installer","url":"https:\/\/forum.xda-developers.com\/apps\/magisk\/official-magisk-v7-universal-systemless-t3473445"}],
 "developer": "ZeNiXxX",
 "developer_url": "https:\/\/t.me\/ZeNiXxXx",
 "forum_url": "https:\/\/forum.xda-developers.com\/mi-8\/development\/prepare-t3841106",
 "changelog": "",
-"filename":"Havoc-OS-v2.0-20181208-dipper-Official.zip",
-"build_date":"20181208-1701",
-"filesize":"1020149882",
-"md5":"3a7a056678626df2f0c3cf2da8e713b3",
-"url":"https:\/\/sourceforge.net\/projects\/havoc-os\/files\/dipper\/Havoc-OS-v2.0-20181208-dipper-Official.zip\/download",
+"filename":"Havoc-OS-v2.0-20181222-dipper-Official.zip",
+"build_date":"20181222-2107",
+"filesize":"595198951",
+"md5":"0ee8bc5088070c4f0edceb305917ee75",
+"url":"https:\/\/sourceforge.net\/projects\/havoc-os\/files\/dipper\/Havoc-OS-v2.0-20181222-dipper-Official.zip\/download",
 "error":true
 }
